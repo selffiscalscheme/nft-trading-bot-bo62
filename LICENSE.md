@@ -1,4 +1,4 @@
-# 
+# instant nft trading bot | auto-sell + slippage-control is the best nft trading bot, featuring auto-sell and slippage-control. Fast, smart, and optimized for NFT trading on
 
 
 
